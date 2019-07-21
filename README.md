@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # AngularStartUp 5
 # AngularStartUp 2
+>>>>>>> 8f57c54... Readme 2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
