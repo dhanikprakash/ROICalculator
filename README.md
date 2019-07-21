@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # AngularStartUp 3
 
